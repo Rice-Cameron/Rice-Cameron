@@ -1,16 +1,65 @@
-## Hi there 👋
+## Hi there 👋, I'm Cameron Rice
 
-<!--
-**Rice-Cameron/Rice-Cameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science graduate from Oregon State University  
+🧠 Backend-focused Software Engineer passionate about clean architecture and scalable systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- **[Time-Tracked Invoice Generator](https://github.com/Rice-Cameron/time-tracked-invoice-generator)** – a Django-based backend service for freelancers with Stripe integration, PDF generation, and task scheduling.
+- **[LeetLog](https://github.com/Rice-Cameron/LeetLog)** – a local-first Next.js app with MySQL, designed to help developers log and review LeetCode problems by pattern, tags, and difficulty without relying on cloud services.
+
+
+### 🌱 I’m currently learning
+- Advanced SQL optimization techniques  
+- Docker orchestration
+- AWS
+- TypeScript for full-stack development  
+
+### 👯 I’m looking to collaborate on
+- Backend-heavy projects using Laravel, Django, or Node.js  
+- Tools that help developers improve productivity or workflow
+
+### 💬 Ask me about
+- REST APIs, relational database design, or backend architecture  
+- Debugging tricky issues with Laravel or Firebase  
+- Strategies for QA automation and DevOps fundamentals
+
+### 📫 How to reach me
+- Email: cameron5237@gmail.com  
+- LinkedIn: [linkedin.com/in/rice-cameron](https://linkedin.com/in/rice-cameron)
+
+### 👨‍💻 All of my projects are available at
+- [cameronrice.net]([https://](https://www.cameronrice.net/))
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+`JavaScript` `PHP` `Python` `SQL` `Kotlin` `C/C++`
+
+**Backend**  
+`Laravel` `FilamentPHP` `Django` `Node.js` `Express` `Firebase`
+
+**Frontend & Web**  
+`React` `Next.js` `HTML5` `CSS3` `Tailwind`
+
+**Databases**  
+`MySQL` `PostgreSQL` `MongoDB` `SQLite`
+
+**DevOps & Tools**  
+`Git` `Docker` `CI/CD` `AWS (EC2, S3)` `Postman`
+
+**Testing**  
+`Jest` `Pytest` `Selenium` `Cypress`
+
+---
+
+### 📄 Resume
+[View Resume]([https://rice-cameron.github.io/resume.pdf](https://www.cameronrice.net/resume))
+
+---
+
+### ⚡ Fun Fact
+I once presented a full-stack sleep tracking app for Shift Work Sleep Disorder research at the Oregon State University Engineering Expo, where I led both backend development and project management
