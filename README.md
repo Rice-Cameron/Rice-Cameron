@@ -7,7 +7,7 @@
 
 ### 🔭 I’m currently working on
 - **[Time-Tracked Invoice Generator](https://github.com/Rice-Cameron/invoice-generator)** – a Django-based backend service for freelancers with Stripe integration, PDF generation, and task scheduling.
-- **[LeetLog](https://github.com/Rice-Cameron/LeetLog)** – a local-first Next.js app with MySQL, designed to help developers log and review LeetCode problems by pattern, tags, and difficulty without relying on cloud services.
+- **[LeetLog](https://github.com/Rice-Cameron/LeetLog)** – a Next.js app, designed to help developers log and review LeetCode problems by pattern, tags, and difficulty.
 
 
 ### 🌱 I’m currently learning
