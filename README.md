@@ -27,7 +27,7 @@
 
 ### 📫 How to reach me
 - Email: cameron5237@gmail.com  
-- LinkedIn: [linkedin.com/in/rice-cameron](https://linkedin.com/in/rice-cameron)
+- LinkedIn: [https://linkedin.com/in/cameron-rice-03b257249/](https://www.linkedin.com/in/cameron-rice-03b257249/)
 
 ### 👨‍💻 All of my projects are available at
 - [cameronrice.net]([https://](https://www.cameronrice.net/))
