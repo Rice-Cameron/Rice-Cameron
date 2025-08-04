@@ -46,10 +46,10 @@
 `React` `Next.js` `HTML5` `CSS3` `Tailwind`
 
 **Databases**  
-`MySQL` `PostgreSQL` `MongoDB` `SQLite`
+`MySQL` `PostgreSQL` `MongoDB` `SQLite` `Firestore`
 
 **DevOps & Tools**  
-`Git` `Docker` `CI/CD` `AWS (EC2, S3)` `Postman`
+`Git` `Docker` `CI/CD` `AWS (EC2, RDS, S3)` `Postman`
 
 **Testing**  
 `Jest` `Pytest` `Selenium` `Cypress`
