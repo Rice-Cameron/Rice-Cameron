@@ -57,7 +57,7 @@
 ---
 
 ### 📄 Resume
-[View Resume]([https://rice-cameron.github.io/resume.pdf](https://www.cameronrice.net/resume))
+[My Resume @ cameronrice.net](https://www.cameronrice.net/resume)
 
 ---
 
