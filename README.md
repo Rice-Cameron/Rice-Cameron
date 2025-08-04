@@ -59,6 +59,8 @@
 ### 📄 Resume
 [My Resume @ cameronrice.net](https://www.cameronrice.net/resume)
 
+[PDF of My Resume](./2025CameronRiceResume.pdf)
+
 ---
 
 ### ⚡ Fun Fact
