@@ -1,67 +1,46 @@
-## Hi there 👋, I'm Cameron Rice
+## Hi, I'm Cameron Rice
 
-🎓 Recent Computer Science graduate from Oregon State University  
-🧠 Backend-focused Software Engineer passionate about clean architecture and scalable systems
+Computer Science graduate from Oregon State University
 
----
-
-### 🔭 I’m currently working on
-- **[Time-Tracked Invoice Generator](https://github.com/Rice-Cameron/invoice-generator)** – a Django-based backend service for freelancers with Stripe integration, PDF generation, and task scheduling.
-- **[LeetLog](https://github.com/Rice-Cameron/LeetLog)** – a Next.js app, designed to help developers log and review LeetCode problems by pattern, tags, and difficulty.
-
-
-### 🌱 I’m currently learning
-- Advanced SQL optimization techniques  
-- Docker orchestration
-- AWS
-- TypeScript for full-stack development  
-
-### 👯 I’m looking to collaborate on
-- Backend-heavy projects using Laravel, Django, or Node.js  
-- Tools that help developers improve productivity or workflow
-
-### 💬 Ask me about
-- REST APIs, relational database design, or backend architecture  
-- Debugging tricky issues with Laravel or Firebase  
-- Strategies for QA automation and DevOps fundamentals
-
-### 📫 How to reach me
-- Email: cameron5237@gmail.com  
-- LinkedIn: [rice-cameron](https://www.linkedin.com/in/rice-cameron)
-
-### 👨‍💻 All of my projects are available at
-- [cameronrice.net](https://www.cameronrice.net/)
+Full Stack .NET Engineer
 
 ---
 
-### 🛠️ Tech Stack
+### About Me
 
-**Languages**  
-`JavaScript` `PHP` `Python` `SQL` `Kotlin` `C/C++`
+I’m a Full Stack .NET Engineer working primarily on desktop applications with C#, .NET, WPF, WinForms, and SQL. Outside of work, I enjoy building web applications and exploring new technologies.
 
-**Backend**  
-`Laravel` `FilamentPHP` `Django` `Node.js` `Express` `Firebase`
+### Tech Stack
 
-**Frontend & Web**  
+**Languages**
+`C#` `TypeScript` `JavaScript` `SQL` `PHP` `Python` `C/C++`
+
+**.NET**
+`.NET` `WPF` `WinForms` `Entity Framework Core`
+
+**Web**
 `React` `Next.js` `HTML5` `CSS3` `Tailwind`
 
-**Databases**  
-`MySQL` `PostgreSQL` `MongoDB` `SQLite` `Firestore`
+**Backend**
+`Laravel` `Django` `Node.js` `Express` `Firebase`
 
-**DevOps & Tools**  
-`Git` `Docker` `CI/CD` `AWS (EC2, RDS, S3)` `Postman`
+**Databases**
+`SQL Server` `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Firestore`
 
-**Testing**  
-`Jest` `Pytest` `Selenium` `Cypress`
+**Tools & DevOps**
+`Git` `Docker` `CI/CD` `AWS` `Postman`
+
+**Testing**
+`xUnit` `Jest` `Pytest` `Selenium` `Cypress`
 
 ---
 
-### 📄 Resume
+### Contact
+
+* Email: [cameron5237@gmail.com](mailto:cameron5237@gmail.com)
+* LinkedIn: [rice-cameron](https://www.linkedin.com/in/rice-cameron)
+* Website: [cameronrice.net](https://www.cameronrice.net/)
+
+### Resume
+
 [My Resume @ cameronrice.net](https://www.cameronrice.net/resume)
-
-[PDF of My Resume](./2025CameronRiceResume.pdf)
-
----
-
-### ⚡ Fun Fact
-I once presented a full-stack sleep tracking app for Shift Work Sleep Disorder research at the Oregon State University Engineering Expo, where I led both backend development and project management
