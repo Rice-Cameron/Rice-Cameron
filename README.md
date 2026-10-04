@@ -1,8 +1,7 @@
 ## Hi, I'm Cameron Rice
 
+Software Engineer @ OpenDental Software
 Computer Science graduate from Oregon State University
-
-Full Stack .NET Engineer
 
 ---
 
@@ -13,10 +12,10 @@ I’m a Full Stack .NET Engineer working primarily on desktop applications with 
 ### Tech Stack
 
 **Languages**
-`C#` `TypeScript` `JavaScript` `SQL` `PHP` `Python` `C/C++`
+`C#` `TypeScript` `JavaScript` `SQL` `Python` `C/C++`
 
 **.NET**
-`.NET` `WPF` `WinForms` `Entity Framework Core`
+`.NET` `WPF` `WinForms` `Avalonia UI`
 
 **Web**
 `React` `Next.js` `HTML5` `CSS3` `Tailwind`
@@ -25,7 +24,7 @@ I’m a Full Stack .NET Engineer working primarily on desktop applications with 
 `Laravel` `Django` `Node.js` `Express` `Firebase`
 
 **Databases**
-`SQL Server` `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Firestore`
+`MariaDB` `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Firestore`
 
 **Tools & DevOps**
 `Git` `Docker` `CI/CD` `AWS` `Postman`
