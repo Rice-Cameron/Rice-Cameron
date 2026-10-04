@@ -7,7 +7,7 @@ Computer Science graduate from Oregon State University
 
 ### About Me
 
-I’m a Full Stack .NET Engineer working primarily on desktop applications with C#, .NET, WPF, WinForms, and SQL. Outside of work, I enjoy building web applications and exploring new technologies.
+I’m a Full Stack .NET Engineer working primarily on desktop applications with C#, .NET, WPF, WinForms, and SQL. Outside of work, I enjoy building applications and exploring new technologies.
 
 ### Tech Stack
 
