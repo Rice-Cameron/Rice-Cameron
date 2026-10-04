@@ -1,6 +1,7 @@
 ## Hi, I'm Cameron Rice
 
 Software Engineer @ OpenDental Software
+
 Computer Science graduate from Oregon State University
 
 ---
